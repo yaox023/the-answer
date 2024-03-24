@@ -1,9 +1,8 @@
 {
-  "name": "the-answer",
+  "name": "the-answer-cjs",
   "version": "1.0.0",
   "description": "The answer to the question of life, the universe and everything",
   "main": "dist/the-answer.js",
-  "module": "dist/the-answer.es.js",
   "files": [
     "dist"
   ],
